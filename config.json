@@ -20,6 +20,15 @@
         "endpoint": "http://oss-cn-shenzhen-internal.aliyuncs.com"
       }
     },
+    "develop1": {
+      "domain": "{domain}",
+      "cdnBase": "//statics-test.lpxhbest.com",
+      "apiBase": "//app-gw-2.lpxhbest.com",
+      "oss": {
+        "bucket": "public-statics-dev",
+        "endpoint": "http://oss-cn-shenzhen-internal.aliyuncs.com"
+      }
+    },
     "production": {
       "domain": "{domain}",
       "cdnBase": "//statics.kredito.id",
