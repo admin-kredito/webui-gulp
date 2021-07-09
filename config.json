@@ -13,8 +13,8 @@
     },
     "qa": {
       "domain": "{domain}",
-      "cdnBase": "//statics-test.seanla.top",
-      "apiBase": "//mgt-api-test.seanla.top",
+      "cdnBase": "//statics-test.lpxhbest.com",
+      "apiBase": "//mgt-api-test.lpxhbest.com",
       "oss": {
         "bucket": "public-statics-dev",
         "endpoint": "http://oss-cn-shenzhen-internal.aliyuncs.com"
